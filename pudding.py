@@ -1,6 +1,6 @@
 import basic
 
-square()
+basic.square()
 
 
-calculate_circumference()
+basic.calculate_circumference()
